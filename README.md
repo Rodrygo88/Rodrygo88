@@ -1,49 +1,76 @@
 <h1 align="center">Olá, eu sou o Rodrigo Silva</h1>
 
 <p align="center">
-  Desenvolvedor em formação, estudando programação com foco em Python, JavaScript e desenvolvimento web.
+  Desenvolvedor em formação, transformando estudos em projetos práticos com Python, JavaScript e web.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rodrygo88?tab=repositories">Projetos</a> •
-  <a href="https://github.com/Rodrygo88">Perfil GitHub</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ---
 
 ## Sobre mim
 
-- Atualmente aprofundando meus estudos em desenvolvimento de software
-- Gosto de criar projetos práticos para consolidar lógica, organização de código e boas práticas
-- Tenho interesse em automação, interfaces web e aplicações simples que resolvem problemas reais
-- Estou construindo meu portfólio com projetos em Python, HTML, CSS e JavaScript
+Sou estudante de desenvolvimento e gosto de aprender construindo. Meu foco é praticar lógica de programação, organizar melhor meus códigos e evoluir aos poucos criando projetos que saem do papel.
+
+<table>
+  <tr>
+    <td><strong>Foco atual</strong></td>
+    <td>Python, JavaScript, HTML, CSS e Git/GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses</strong></td>
+    <td>Automação, interfaces web, jogos simples e ferramentas úteis</td>
+  </tr>
+  <tr>
+    <td><strong>Objetivo</strong></td>
+    <td>Criar soluções cada vez mais organizadas, funcionais e bem documentadas</td>
+  </tr>
+</table>
 
 ---
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
 ---
 
-## Estatísticas
+## O que você encontra por aqui
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodrygo88&show_icons=true&theme=default" alt="Estatísticas do GitHub de Rodrigo Silva" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrygo88&layout=compact&theme=default" alt="Linguagens mais usadas por Rodrigo Silva" />
-</p>
+- Exercícios e desafios em Python para treinar lógica
+- Projetos simples com interface gráfica usando Tkinter
+- Páginas web criadas com HTML e CSS
+- Experimentos para praticar organização, versionamento e documentação
 
 ---
 
 ## Em evolução
 
-Estou sempre estudando, praticando e melhorando meus projetos. Meu objetivo é evoluir como desenvolvedor criando soluções cada vez mais organizadas, úteis e bem documentadas.
+Cada repositório representa uma etapa da minha jornada. Estou sempre revisando, refatorando e buscando escrever códigos mais limpos, úteis e fáceis de entender.
+
+<p align="center">
+  <a href="https://github.com/Rodrygo88?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20meus%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus repositórios" />
+  </a>
+</p>
