@@ -35,23 +35,11 @@
 
 ---
 
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [python_desafios](https://github.com/Rodrygo88/python_desafios) | Coleção com 114 desafios práticos para treinar lógica de programação e Python. | Python |
-| [gsa_gerador_de_senhas](https://github.com/Rodrygo88/gsa_gerador_de_senhas) | Gerador de senhas personalizadas com opções de tamanho e tipos de caracteres. | Python |
-| [jdf_jogo_da_forca](https://github.com/Rodrygo88/jdf_jogo_da_forca) | Jogo da forca com interface gráfica criada com Tkinter. | Python, Tkinter |
-| [site_receita_de_cupcake](https://github.com/Rodrygo88/site_receita_de_cupcake) | Página de receita com estrutura HTML e estilos em CSS. | HTML, CSS |
-| [site_jadoo_travel](https://github.com/Rodrygo88/site_jadoo_travel) | Página web com seções, imagens, cards, botões, navegação e rodapé. | HTML, CSS |
-
----
-
 ## Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodrygo88&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Rodrigo Silva" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrygo88&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Rodrigo Silva" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodrygo88&show_icons=true&theme=default" alt="Estatísticas do GitHub de Rodrigo Silva" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrygo88&layout=compact&theme=default" alt="Linguagens mais usadas por Rodrigo Silva" />
 </p>
 
 ---
