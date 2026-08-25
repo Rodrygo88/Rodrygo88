@@ -1,10 +1,11 @@
 <h1 align="center">Olá, eu sou o Rodrigo Silva</h1>
 
 <p align="center">
-  Desenvolvedor em formação, transformando estudos em projetos práticos com Python, JavaScript e web.
+  Desenvolvedor em formação, transformando estudos em projetos práticos com C#, Python, JavaScript e web.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -20,11 +21,11 @@ Sou estudante de desenvolvimento e gosto de aprender construindo. Meu foco é pr
 <table>
   <tr>
     <td><strong>Foco atual</strong></td>
-    <td>Python, JavaScript, HTML, CSS e Git/GitHub</td>
+    <td>C#, .NET, Python, JavaScript, HTML, CSS e Git/GitHub</td>
   </tr>
   <tr>
     <td><strong>Interesses</strong></td>
-    <td>Automação, interfaces web, jogos simples e ferramentas úteis</td>
+    <td>Automação, interfaces web, desenvolvimento de aplicações, jogos simples e ferramentas úteis</td>
   </tr>
   <tr>
     <td><strong>Objetivo</strong></td>
@@ -37,6 +38,10 @@ Sou estudante de desenvolvimento e gosto de aprender construindo. Meu foco é pr
 ## Tecnologias e ferramentas
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" title=".NET" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -58,7 +63,8 @@ Sou estudante de desenvolvimento e gosto de aprender construindo. Meu foco é pr
 
 ## O que você encontra por aqui
 
-- Exercícios e desafios em Python para treinar lógica
+- Exercícios e desafios em C# e Python para treinar lógica
+- Projetos utilizando C# e .NET
 - Projetos simples com interface gráfica usando Tkinter
 - Páginas web criadas com HTML e CSS
 - Experimentos para praticar organização, versionamento e documentação
